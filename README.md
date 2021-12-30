@@ -1,4 +1,4 @@
-# Data-Analysis-Course-Project
+# Intermediate-Data-Analysis-Course-Project
 This repository will contain files pertaining to an Intermediate Data Analysis course Final
 
 1.) The first file to read will be the Math 439 Final word document. It contains information about our data sets and the problems we wish to provide insight on.
